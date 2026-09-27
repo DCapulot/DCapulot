@@ -16,9 +16,9 @@ Sou uma pessoa curiosa e dedicada, sempre buscando aprender coisas novas e melho
 
 ## 🛠️ Tecnologias e Ferramentas
 
-* 💡 Linguagens: (ex: JavaScript, C,java, etc.)
-* ⚙️ Ferramentas: (ex: Github, VS Code)
-* 🌐 Web: (HTML, CSS)
+* 💡 Linguagens: <!-- ex: JavaScript, C, Java -->
+* ⚙️ Ferramentas: <!-- ex: GitHub, VS Code -->
+* 🌐 Web: <!-- ex: HTML, CSS -->
 
 ---
 
@@ -30,11 +30,10 @@ Sou uma pessoa curiosa e dedicada, sempre buscando aprender coisas novas e melho
 
 ---
 
-
 ## 📫 Contato
 
 * Email: davidcapulot2025@gmail.com
-* LinkedIn: www.linkedin.com/in/david-capulot-corrêa-7865bb2a4
+* LinkedIn: [linkedin.com/in/david-capulot-correa-7865bb2a4](https://www.linkedin.com/in/david-capulot-correa-7865bb2a4)
 
 ---
 
