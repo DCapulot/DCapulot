@@ -1,4 +1,4 @@
-chega o projetos todos que eu te passar e confere se tem erros # 👋 Olá, eu sou David Capulot Corrêa
+👋 Olá, eu sou David Capulot Corrêa
 
 > Desenvolvedor em formação apaixonado por tecnologia e criação de soluções.
 
