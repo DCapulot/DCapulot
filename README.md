@@ -48,7 +48,7 @@ na_faculdade: [gestão de projetos, Scrum, Kanban, DevOps, modelos de negócios 
 <img src="https://img.shields.io/badge/Engenharia%20de%20Prompt-0d0d12?style=flat-square&logoColor=a78bfa" alt="Engenharia de Prompt" />
 <img src="https://img.shields.io/badge/SQL-0d0d12?style=flat-square&logoColor=a78bfa" alt="SQL" />
 
-</d
+
 
 <div align="center">
 
