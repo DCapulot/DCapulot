@@ -49,3 +49,9 @@ na_faculdade: [gestão de projetos, Scrum, Kanban, DevOps, modelos de negócios 
 <img src="https://img.shields.io/badge/SQL-0d0d12?style=flat-square&logoColor=a78bfa" alt="SQL" />
 
 </d
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FDCapulot&query=%24.public_repos&label=reposit%C3%B3rios%20p%C3%BAblicos&style=for-the-badge&labelColor=0d0d12&color=8b5cf6&logo=github&logoColor=a78bfa" alt="Repositórios públicos" />
+
+</div>
