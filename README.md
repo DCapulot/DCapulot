@@ -110,25 +110,7 @@ const david = {
 
 <br/>
 
-## `> troféus`
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=DCapulot&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=12" alt="GitHub Trophies" />
-
-</div>
-
-<br/>
-
-## `> contribuições`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/DCapulot/DCapulot/output/snake.svg" alt="Snake das contribuições" />
-
-</div>
-
-<br/>
 
 ## `> vamos_conversar`
 
